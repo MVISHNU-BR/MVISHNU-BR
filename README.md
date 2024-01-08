@@ -13,17 +13,17 @@
   💼 Ferramentas: VsCode - GitHub - Figma 
 </p>
 
-<p align="left">
+<!--<p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+</p>-->
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mahajneesh@gmail.com" alt="Gmail"/></a>
+  <a href="mailto:mahajneesh@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail"/></a>
 
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahavishnu-jneesh-1b08881b8/N" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mahavishnu-jneesh-1b08881b8/N" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
 
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vishnu_ujn/" alt="Instagram"></a>
+  <a href="https://www.instagram.com/vishnu_ujn/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"></a>
 </p>
