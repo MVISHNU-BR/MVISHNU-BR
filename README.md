@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Meu nome e Vishnu, sou um estudante de ADS, meu foco atual e <strong>Desenvolvimento FullStack</strong><br>
-  com foco em <strong>.NET C#.</strong>
+ <strong>.NET C#, React</strong>
 </p>
 
 <p align="left">
